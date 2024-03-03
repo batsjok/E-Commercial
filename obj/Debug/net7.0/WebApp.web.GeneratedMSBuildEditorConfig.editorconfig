@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp.web
+build_property.RootNamespace = WebApp.web
+build_property.ProjectDir = /Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/PartialViews/_ProductListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFydGlhbFZpZXdzL19Qcm9kdWN0TGlzdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Home/Visitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Product/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9HZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/Components/ProductList/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUHJvZHVjdExpc3QvUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/Components/ProductList/Type2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUHJvZHVjdExpc3QvVHlwZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/Components/Visitor/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvVmlzaXRvci9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/hata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL2hhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/OrnekLayout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL09ybmVrTGF5b3V0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/Partialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kutaysaglam/Documents/web/MVC/WebApp.web/WebApp.web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e7bof5imsu
